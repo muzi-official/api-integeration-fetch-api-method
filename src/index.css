@@ -1,0 +1,23 @@
+.main {
+  padding: 7px 7px;
+  margin: 10px;
+  background: rgb(239, 239, 239);
+  box-shadow: 1px 1px 10px grey;
+  border-radius: 10px;
+}
+
+.items {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.article,
+.follower,
+.rating {
+  padding: 8px;
+  border-radius: 4px;
+  font-size: 15px;
+  background: rgb(239, 239, 239);
+  box-shadow: 1px 1px 10px grey;
+}
