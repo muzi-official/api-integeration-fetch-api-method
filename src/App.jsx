@@ -49,14 +49,8 @@ users.map((curElem) => {
 }) 
 
 } 
-
-                 
-
-              
-
-                </div>
-            </div>
-
+ </div>
+  </div>
         </>
     )
 }
